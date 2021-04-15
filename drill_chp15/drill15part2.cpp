@@ -70,7 +70,7 @@ try{
     
     vector<Person> emberek;
 
-    cout << "Kérem írja be a neveket egy '|' jellel befejezőleg a legvégén" << endl;
+    cout << " Irj be egy kereszt és vezéteknevet és egy évet kétszer" << endl;
     for (int i = 0; i < 2; ++i)
     {
         Person var;
