@@ -1,6 +1,9 @@
 #include "Simple_window.h"
 #include "Graph.h"
 
+//g++ drill_ch12.cpp Graph.cpp Window.cpp GUI.cpp Simple_window.cpp -o ch12 `fltk-config --ldflags --use-images`
+
+
 int main()
 {
     using namespace Graph_lib;
